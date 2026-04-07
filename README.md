@@ -1,2 +1,2 @@
-# MernProject_ReplicaAirBNB
+# Replica_AirBNB
 MERN Project ✨🐢🚀✨
