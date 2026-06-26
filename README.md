@@ -18,15 +18,18 @@ Cloudinary
 
 ## Screenshots
 
-### Home Screen
+### Home
 ![Home](screenshots/home.png)
 
-### Listing Page
-![Listing](screenshots/listing.png)
-
-### Login Screen
+### Login
 ![Login](screenshots/login.png)
-## API Routes
+
+### Add New Listing
+![Add Listing](screenshots/addNewListiing.png)
+
+### Review
+![Review](screenshots/review.png)
+
 
 ## Installation
 
